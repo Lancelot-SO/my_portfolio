@@ -191,12 +191,23 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
     gap: 12px;
     width: 297px;
     height: 40px;
   }
 
-  .tag-1 {
+  .tag ul {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    gap: 12px;
+    margin-right: 27px;
+  }
+
+  .tag ul li:nth-child(1) {
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -208,7 +219,7 @@
     border: 1px solid #8993a4;
   }
 
-  .tag-2 {
+  .tag ul li:nth-child(2) {
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -220,7 +231,7 @@
     border: 1px solid #8993a4;
   }
 
-  .tag-3 {
+  .tag ul li:nth-child(3) {
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -232,7 +243,7 @@
     border: 1px solid #8993a4;
   }
 
-  .tag-4 {
+  .tag ul li:nth-child(4) {
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -702,7 +713,7 @@
   .project-btn h4 {
     width: 100px;
     height: 24px;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 17px;
