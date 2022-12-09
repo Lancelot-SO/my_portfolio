@@ -245,7 +245,7 @@ If you like this project support me by sending me a motivational message and sup
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="Mad. Doris, Mr. Mathias & Mr. George"></a>
+## 🙏 Acknowledgments <a name="Mad. Doris, Mr. Mathias, Ms. Hannah, Mr. George & the entire Bassaw family"></a>
 
 > Give credit to everyone who inspired your codebase.
 I would like to thank my family for helping me through out my journey in this field. God richly bless them.
