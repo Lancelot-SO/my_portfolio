@@ -348,6 +348,16 @@
     background: #f55800;
   }
 
+  .block-btn:hover {
+    background: #fff5e1;
+    border: 1px solid #f55800;
+    color: #f55800;
+  }
+
+  .block-btn:active {
+    background: ##e05304;
+  }
+
   .block-btn a {
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -1044,6 +1054,15 @@
     background: #f55800;
   }
 
+  .about-btn:hover {
+    background: #fff5e1;
+    border: 1px solid #f55800;
+  }
+
+  .about-btn:active {
+    background: #e05304;
+  }
+
   .about-btn a {
     width: 137px;
     height: 24px;
@@ -1061,15 +1080,15 @@
   }
 
   .about-btn a:hover {
-    color: #f4f5f7;
+    color: #f55800;
   }
 
   .action-btn a:hover {
-    color: #f4f5f7;
+    color: #f55800;
   }
 
   .block-btn a:hover {
-    color: #f4f5f7;
+    color: #f55800;
   }
 
   .divider {
@@ -1558,8 +1577,8 @@
     align-items: center;
     padding: 12px;
     gap: 10px;
-    width: 122px;
-    height: 48px;
+    width: 130px;
+    height: 50px;
     background: #f55800;
     border: none;
     color: #fff;
@@ -1568,8 +1587,18 @@
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 24px;
+  }
+
+  button:hover {
+    background-color: #fff5e1;
+    color: #f55800;
+    border: 1px solid #f55800;
+  }
+
+  button:active {
+    background-color: #e05304;
   }
 
   footer {
