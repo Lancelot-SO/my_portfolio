@@ -163,6 +163,7 @@
     left: 55px;
     top: 875px;
     margin-right: 200px;
+    margin-left: 15px;
   }
 
   .recent-works-title {
@@ -998,11 +999,16 @@
     align-items: flex-start;
     padding: 130px;
     gap: 24px;
-    width: 566px;
+    width: 1440px;
     height: 582px;
     left: 142px;
     top: 2680px;
     padding-left: 50px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    background-image: url(assets/Frame.png);
+    background-repeat: no-repeat;
+    background-position: 672px;
+    background-size: 600px;
   }
 
   .about-me h2 {
@@ -1066,22 +1072,13 @@
     color: #f4f5f7;
   }
 
-  .about-img img {
-    position: absolute;
-    left: 59.3%;
-    right: 99.81%;
-    top: 9%;
-    bottom: 0.07%;
-    transform: matrix(1, 0, 0, 1, 0, 0);
-  }
-
   .divider {
     position: absolute;
     width: 1156px;
-    left: 142px;
+    left: 60px;
     top: 3262px;
     top: calc(50% - 0px / 2 + 0.5px);
-    border: 1px solid #fff;
+    border:0.5px solid #fff;
     background-color: #868282;
   }
 
