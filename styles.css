@@ -352,10 +352,11 @@
     background: #fff5e1;
     border: 1px solid #f55800;
     color: #f55800;
+    transform: scale(0.7);
   }
 
   .block-btn:active {
-    background: ##e05304;
+    background: #e05304;
   }
 
   .block-btn a {
@@ -1057,6 +1058,7 @@
   .about-btn:hover {
     background: #fff5e1;
     border: 1px solid #f55800;
+    transform: scale(0.7);
   }
 
   .about-btn:active {
@@ -1595,6 +1597,7 @@
     background-color: #fff5e1;
     color: #f55800;
     border: 1px solid #f55800;
+    transform: scale(0.7);
   }
 
   button:active {
