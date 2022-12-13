@@ -99,7 +99,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="deployment"></a>
+## 🚀 Live Demo <a name="Not Yet"></a>
 
 > Add a link to your deployed project.
 - [Live Demo Link](https://lancelot-so.github.io/my_portfolio/)
